@@ -1,0 +1,6 @@
+Nurane        => 0.35+  
+Leyla         => 0.95+
+HikMAT        => 0.75+
+Leman         => 0.69+
+Hidayet       => 0.15+ 
+adasdasda
